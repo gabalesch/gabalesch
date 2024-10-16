@@ -2,7 +2,7 @@
 
 ## 🌟 About Me
 
-I'm an 18-year-old aspiring software engineer from Stockholm, Sweden. I am passionate about web development, game development, and programming in general. Currently, I’m currently working on **Gats.io**, a top-down browser-based shooter game.
+I'm an 18-year-old aspiring software engineer from Stockholm, Sweden. I am passionate about web development, game development, and programming in general. Currently, I’m working on **Gats.io**, a top-down browser-based shooter game.
 
 ## 🛠️ Languages & Tools
 
